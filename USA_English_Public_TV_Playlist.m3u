@@ -1,0 +1,30 @@
+#EXTM3U
+#PLAYLIST:USA English Free & Public Streams
+# Note: This starter playlist uses the public IPTV-org community index. Streams may change, be geo-restricted, or have rights/availability limitations. Check each channel's official source and local availability.
+# For a broad directory of publicly listed streams, see https://iptv-org.github.io/iptv/index.m3u
+# Category playlists below are maintained by the IPTV-org project; they are not guaranteed to be USA-only or fully authorised by each broadcaster.
+# For strict authorised viewing, use each broadcaster's official app/site or a licensed FAST TV service.
+
+#EXTINF:-1 group-title="Entertainment",IPTV-org - Full public channel directory
+https://iptv-org.github.io/iptv/index.m3u
+
+#EXTINF:-1 group-title="Entertainment",IPTV-org - Entertainment category
+https://iptv-org.github.io/iptv/categories/entertainment.m3u
+
+#EXTINF:-1 group-title="Movies",IPTV-org - Movies category
+https://iptv-org.github.io/iptv/categories/movies.m3u
+
+#EXTINF:-1 group-title="Comedy",IPTV-org - Comedy category
+https://iptv-org.github.io/iptv/categories/comedy.m3u
+
+#EXTINF:-1 group-title="Kids",IPTV-org - Kids category
+https://iptv-org.github.io/iptv/categories/kids.m3u
+
+#EXTINF:-1 group-title="News",IPTV-org - News category
+https://iptv-org.github.io/iptv/categories/news.m3u
+
+#EXTINF:-1 group-title="Sports",IPTV-org - Sports category
+https://iptv-org.github.io/iptv/categories/sports.m3u
+
+#EXTINF:-1 group-title="Music",IPTV-org - Music category
+https://iptv-org.github.io/iptv/categories/music.m3u
